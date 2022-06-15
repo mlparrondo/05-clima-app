@@ -1,3 +1,3 @@
 .env
-db/database.json
+db/**/*.json
 node_modules/
